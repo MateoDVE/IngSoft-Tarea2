@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Mateo_DVE",
+    "commit": {
+      "date": "2025-08-19T04:10:48.000Z",
+      "message": "agregar el multiplicar y stilos",
+      "url": "https://github.com/MateoDVE/IngSoft-Tarea2/commit/HEAD"
+    },
+    "stats": {
+      "total": 123,
+      "additions": 121,
+      "deletions": 2,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
